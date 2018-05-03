@@ -1,0 +1,22 @@
+.container {
+    margin-top: 2%;
+    border: 2px solid lightskyblue;
+}
+
+#second {
+    height: 150px;
+    margin-top: 150px;
+}
+
+p.note {
+    color: red;
+}
+
+#draggable{
+    max-width: 24.5%;
+    height: 50px;
+    border: 1px solid lightgrey;
+    margin: auto 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
