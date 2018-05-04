@@ -20,3 +20,7 @@ p.note {
     margin-top: 1px;
     margin-bottom: 1px;
 }
+
+.ui-state-highlight {
+    background-color: aqua;
+}
